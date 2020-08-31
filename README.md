@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+Hello Friends,
+This is Srini learning GitHub.
